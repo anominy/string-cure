@@ -1,0 +1,5 @@
+*.dll binary
+*.so binary
+*.dylib binary
+
+/jni/include/** linguist-vendored

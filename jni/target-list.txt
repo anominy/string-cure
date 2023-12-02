@@ -1,0 +1,8 @@
+000 x86_64-windows-msvc win32 .o .dll decancer.dll
+001 x86_64-linux-gnu linux .o .so libdecancer.so
+002 x86_64-macos-none darwin .o .dylib libdecancer.dylib
+003 aarch64-linux-gnu linux .o .so libdecancer.so
+004 aarch64-macos-none darwin .o .dylib libdecancer.dylib
+005 x86_64-linux-musl linux .o .so libdecancer.so
+006 aarch64-linux-musl linux .o .so libdecancer.so
+007 arm-linux-gnueabihf linux .o .so libdecancer.so
